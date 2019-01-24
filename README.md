@@ -5,7 +5,7 @@
 
 # Description
 Little app/concept build in a one day workshop for kids.
-The app works with ARKit and image recognition in order to show and track virtual figures.
+The app works with ARKit and images recognition in order to show and track virtual figures.
 The virtual figures are 3D models available for free on 3D models websites.
 
 
