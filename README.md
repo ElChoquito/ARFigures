@@ -24,4 +24,4 @@ Don't forget to name the image as the one you change ('Mario' for example). Also
 
 # Author
 [@SylGllr](https://twitter.com/SylGllr).
-[Website](http://guilliersylvain.raidghost.com).
+[Website](http://sylvainguillier.com).
